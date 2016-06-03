@@ -1,0 +1,10 @@
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\ProyectoDSW.dll.config
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\ProyectoDSW.dll
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\ProyectoDSW.pdb
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\PoryectoBE.dll
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\ProyectoBL.dll
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\PoryectoBE.pdb
+C:\Proyecto\ProyectoDSW\ProyectoDSW\bin\ProyectoBL.pdb
+C:\Proyecto\ProyectoDSW\ProyectoDSW\obj\Debug\ProyectoDSW.csprojResolveAssemblyReference.cache
+C:\Proyecto\ProyectoDSW\ProyectoDSW\obj\Debug\ProyectoDSW.dll
+C:\Proyecto\ProyectoDSW\ProyectoDSW\obj\Debug\ProyectoDSW.pdb

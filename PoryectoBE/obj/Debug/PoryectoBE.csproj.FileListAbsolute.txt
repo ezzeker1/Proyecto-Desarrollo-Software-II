@@ -1,0 +1,6 @@
+C:\Proyecto\ProyectoDSW\PoryectoBE\bin\PoryectoBE.dll.config
+C:\Proyecto\ProyectoDSW\PoryectoBE\bin\PoryectoBE.dll
+C:\Proyecto\ProyectoDSW\PoryectoBE\bin\PoryectoBE.pdb
+C:\Proyecto\ProyectoDSW\PoryectoBE\obj\Debug\PoryectoBE.csprojResolveAssemblyReference.cache
+C:\Proyecto\ProyectoDSW\PoryectoBE\obj\Debug\PoryectoBE.dll
+C:\Proyecto\ProyectoDSW\PoryectoBE\obj\Debug\PoryectoBE.pdb

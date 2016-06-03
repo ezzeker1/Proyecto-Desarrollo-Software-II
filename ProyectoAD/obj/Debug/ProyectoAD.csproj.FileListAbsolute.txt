@@ -1,0 +1,8 @@
+C:\Proyecto\ProyectoDSW\ProyectoAD\bin\ProyectoAD.dll.config
+C:\Proyecto\ProyectoDSW\ProyectoAD\bin\ProyectoAD.dll
+C:\Proyecto\ProyectoDSW\ProyectoAD\bin\ProyectoAD.pdb
+C:\Proyecto\ProyectoDSW\ProyectoAD\bin\PoryectoBE.dll
+C:\Proyecto\ProyectoDSW\ProyectoAD\bin\PoryectoBE.pdb
+C:\Proyecto\ProyectoDSW\ProyectoAD\obj\Debug\ProyectoAD.csprojResolveAssemblyReference.cache
+C:\Proyecto\ProyectoDSW\ProyectoAD\obj\Debug\ProyectoAD.dll
+C:\Proyecto\ProyectoDSW\ProyectoAD\obj\Debug\ProyectoAD.pdb
